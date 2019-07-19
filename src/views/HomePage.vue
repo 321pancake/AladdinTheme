@@ -17,7 +17,7 @@
     <!-- Board -->
     <v-layout my-5>
       <v-flex xs12>
-        <router-link to="/Board" style="text-decoration:none; color:black">
+        <router-link to="/Board" style="text-decoration:none;">
           <h2 class="my-5 text-xs-center page_title">Board</h2>
         </router-link>
         <BoardList></BoardList>
@@ -27,27 +27,15 @@
     <!-- Github -->
     <v-layout my-5>
       <v-flex xs12>
-<<<<<<< HEAD
-        <h2 class="display-1 font-weight-medium my-5 text-xs-center">About Us</h2>
+        <router-link to="/aboutus" style="text-decoration:none;">
+          <h2 class="my-5 text-xs-center page_title">About Us</h2>
+        </router-link>
         <v-card flat style="background-color:#fff0">
           <v-container fluid grid-list-lg style="background-color:#fff0;">
-=======
-        <h2 class="my-5 text-xs-center page_title">About Us</h2>
-        <v-card flat color="white">
-          <v-container fluid grid-list-lg>
->>>>>>> d5e6042d7c1fe48336681b2029ccadbc4f7f6e3f
             <v-layout row wrap>
               <v-flex xs12 sm6 v-for="team in teams">
                 <v-card class="black--text" style="min-width: 200px; min-height: 300px; background-color: #fff0; box-shadow: none!important;">
                   <Person :name="team.name" :description="team.description" :image="team.image" :url="team.url"></Person>
-<<<<<<< HEAD
-=======
-                  <v-layout row>
-                    <v-flex xs7>
-
-                    </v-flex>
-                  </v-layout>
->>>>>>> d5e6042d7c1fe48336681b2029ccadbc4f7f6e3f
                 </v-card>
               </v-flex>
             </v-layout>
@@ -114,7 +102,7 @@ export default {
         {
           name: '전의환',
           age: 27,
-          description: '전의환 입니다.',
+          description: '다이애나 장인입니다.',
           url: 'https://lab.ssafy.com/jeon',
           //image: require('@/assets/profile.png'),
           image: 'https://avataaars.io/?avatarStyle=Circle&topType=Eyepatch&facialHairType=BeardMedium&facialHairColor=Brown&clotheType=GraphicShirt&clotheColor=Pink&graphicType=SkullOutline&eyeType=Surprised&eyebrowType=RaisedExcitedNatural&mouthType=Serious&skinColor=Tanned',

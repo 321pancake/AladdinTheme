@@ -96,7 +96,6 @@ export default {
   methods: {
     async drawStatGraph() {
       this.commits = await GitlabService.getCommits(this.repos.id, this.token);
-      console.log(this.commits.data);
       this.modifyValue();
     },
     modifyValue() {
@@ -106,7 +105,6 @@ export default {
         let date = new Date(this.commits.data[i].committed_date);
         this.commitdata[date.getMonth()] += 1;
       }
-      console.log(this.commitdata);
       // return value;
     }
   },

@@ -101,7 +101,7 @@
                         link: '/Board'
                     },
                     {
-                        title: 'Aboutsus',
+                        title: 'Aboutus',
                         link: '/aboutus'
                     },
                     // {

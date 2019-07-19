@@ -19,7 +19,7 @@
 
       <v-card-actions class="grey darken-3 justify-space-between px-5">
         <v-spacer></v-spacer>
-        <v-card-text style="width: auto; color: white;" class="pa-0 ml-3">&copy; 2019 — <strong> Ming</strong>
+        <v-card-text style="width: auto; color: white;" class="pa-0 ml-3">&copy; 2019 — <strong> 321pancake</strong>
         </v-card-text>
         <v-spacer></v-spacer>
         <v-spacer></v-spacer>

@@ -8,7 +8,6 @@
   <v-container>
     <v-layout my-5>
       <v-flex xs12>
-          <h2 class="display-1 font-weight-medium my-5 text-xs-center">About Us</h2>
         <v-layout wrap>
           <v-flex v-for="team in teams" xs12 sm6 lg3 pa-2>
             <v-hover>
@@ -81,7 +80,7 @@ export default {
           description: '학벌 깡패입니다.',
           url: 'https://lab.ssafy.com/leesangju92',
           image: require('@/assets/sangju.png'),
-          token: 'XLZHQWzDiR5vY3px3oWu',
+          token: '5ixfc4xyRHiJyeWuyjVp',
           key: false,
           userName: 'leesangju92'
         },
