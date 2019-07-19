@@ -7,7 +7,7 @@
     </router-link>
 
     <p class="mr-4 my-5 text-xs-center text-sm-right" data-aos="zoom-in-right" data-aos-duration="1000" style="color: white; font-size:1.5em">
-      개발을 개발하는<br>
+      저희는<br>
       "321Pancake" 입니다.<br>
       같이 열심히 개발을 해봐요<br>
       감사합니다ㅎㅎ<br>
@@ -24,7 +24,7 @@ export default {
   name: "About",
   data() {
     return {
-      img: require('@/assets/ming.png')
+      img: require('@/assets/jinny.jpg')
     }
   }
 }
