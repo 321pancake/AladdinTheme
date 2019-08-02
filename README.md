@@ -18,7 +18,7 @@ npm run serve
 
 ### board CRUD
 
-![board](https://i.imgur.com/F257Bfk.gif)
+!(board)[https://i.imgur.com/F257Bfk.gif]
 
 ## aboutus
 
