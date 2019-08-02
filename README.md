@@ -18,7 +18,8 @@ npm run serve
 
 ### board CRUD
 
-<img src="https://i.imgur.com/F257Bfk.gif" width=80% height=80px />
+<img src="https://i.imgur.com/F257Bfk.gif" width=80% height=80px>
+</img>
 
 ## aboutus
 
