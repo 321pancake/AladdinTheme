@@ -12,20 +12,20 @@ npm run serve
 
 ### intro
 
-[Imgur](https://i.imgur.com/rwaTgFK.gifv)
+![intro](https://i.imgur.com/rwaTgFK.gifv)
 
 ### user signup, login, logout
 
-[Imgur](https://i.imgur.com/lsZ4gba.gifv)
+![user](https://i.imgur.com/lsZ4gba.gifv)
 
 ### board CRUD
 
-[Imgur](https://i.imgur.com/FtPwfYF.gifv)
-[Imgur](https://i.imgur.com/z1NAlm7.gifv)
+![board fail](https://i.imgur.com/FtPwfYF.gifv)
+![board](https://i.imgur.com/z1NAlm7.gifv)
 
-## about us
+## aboutus
 
-[Imgur](https://i.imgur.com/0JqHiST.gifv)
+![aboutus](https://i.imgur.com/0JqHiST.gifv)
 
 ## 프로젝트 기간
 
