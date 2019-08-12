@@ -13,14 +13,31 @@ npm run serve
 
 ### intro
 
-### user signup, login, logout
-
 ![intro](gif/intro.gif)
 
+### home
 
-### board CRUD
+![intro](gif/home.gif)
 
+### login
 
+![intro](gif/login.gif)
+
+### board write
+
+![intro](gif/boardWrite.gif)
+
+### board detail
+
+![intro](gif/boardDetail.gif)
+
+### aboutus
+
+![intro](gif/aboutus.gif)
+
+### banner Change
+
+![intro](gif/BannerChange.gif)
 
 ## 프로젝트 기간
 
