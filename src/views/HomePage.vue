@@ -10,8 +10,7 @@
   <!-- container -->
   <v-container>
     <!-- About Me -->
-    <About
-    ></About>
+    <About></About>
 
 
     <!-- Board -->
